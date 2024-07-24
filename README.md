@@ -1,19 +1,19 @@
 # Custom 16 bit processor emulator
 
-Commands:
+Commands:<br />
 ADD  signed addition<br />
-SUB  signed substraction__
-AND  bitwise and__
-OR   bitwise or__
-NOT  bitwise not__
-LSL  logical shit left__
-LSR  logical shift right__
-MUL  signed multiplication__
-ADDI load immidiate to reg__
-BRA  branch__
-BEQ  branch if equal__
-BNE  branch if not equal__
-JMP  jump__
-STR  store data in memory__
-LDM  load data from memory__
-HLT  halt execution__
+SUB  signed substraction<br />
+AND  bitwise and<br />
+OR   bitwise or<br />
+NOT  bitwise not<br />
+LSL  logical shit left<br />
+LSR  logical shift right<br />
+MUL  signed multiplication<br />
+ADDI load immidiate to reg<br />
+BRA  branch<br />
+BEQ  branch if equal<br />
+BNE  branch if not equal<br />
+JMP  jump<br />
+STR  store data in memory<br />
+LDM  load data from memory<br />
+HLT  halt execution<br />
