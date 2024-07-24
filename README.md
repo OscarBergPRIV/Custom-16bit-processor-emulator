@@ -1,7 +1,7 @@
 # Custom 16 bit processor emulator
 
 Commands:
-ADD  signed addition__
+ADD  signed addition<br />
 SUB  signed substraction__
 AND  bitwise and__
 OR   bitwise or__
